@@ -18,4 +18,7 @@ This site showcases my projects, skills, and experience in web development and s
 ---
 
 ## 📂 Project Structure
-
+- `index.html` – Main HTML file
+- `style.css` – Custom styles
+- `script.js` – JavaScript functionality
+- `assets/` – Folder containing images, icons, or other media
